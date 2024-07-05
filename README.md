@@ -1,3 +1,3 @@
 # readme
-UNL student researcher
+UNL student researcher,
 Nebraska Stories of Humanity
